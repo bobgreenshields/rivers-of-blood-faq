@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The RPG Social Contract
-nav_order: 1
+nav_order: 2
 ---
 
 # Please take 20 minutes to watch this...
