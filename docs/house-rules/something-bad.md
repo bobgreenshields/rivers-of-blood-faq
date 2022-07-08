@@ -19,7 +19,7 @@ Often as encounters begin I will say
 
 Perhaps the characters have a (remarkably accurate) sense of impending dread?  But anyway it adds to the tension that very soon things are going to get worse so the party needs to set to.
 
-I also get the players to roll dice for spawning monsters.  Typically it's the ones rolled on a handful of dice and it's lead to cheers of
+I also get the players to roll dice for spawning monsters.  Typically it's the ones rolled on a handful of dice and it's led to cheers of
 
 *Hooray, we don't roll ones!*
 
