@@ -1,6 +1,6 @@
 ---
 layout: default
 title: House Rules
-nav_order: 4
+nav_order: 15
 has_children: true
 ---
