@@ -7,7 +7,7 @@ nav_order: 2
 
 # Combat: Action declaration phase
 
-A combat round is only 5 seconds.  Whilst acting, moving and reacting there is little time for making decisions based on what is happening simultaneously around you.
+A combat round is only 5 seconds.  Whilst acting, moving and reacting there is little time for making decisions based on what is simultaneously happening around you.
 
 At the start of every round we will go around the table asking players what their characters will be doing that round.  We then resolve those actions in initiative order.
 
