@@ -15,6 +15,7 @@ This will take me a little while so I'd be very grateful if you could do this as
 - give them a name
 - choose equipment
 - choose the spells that you are most likely to be using
+- if you are a spellcaster and using a focus let me know what it is and how you use it
 - let me know if you have any feats or other features
 
 ## Fill in a character sheet
